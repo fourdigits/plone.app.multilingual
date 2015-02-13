@@ -1,8 +1,8 @@
 Changelog
 =========
 
-2.0a4-fourdigits (unreleased)
-------------------
+2.0a4-fourdigits (2015-02-13)
+-----------------------------
 
 - Remove dependency on zope.app.container and zope.app.initd
   [joka]
