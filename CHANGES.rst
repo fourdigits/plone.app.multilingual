@@ -1,6 +1,12 @@
 Changelog
 =========
 
+2.0a4-fourdigits (unreleased)
+-----------------------------
+
+- Nothing changed yet.
+
+
 2.0a4-fourdigits (2015-02-13)
 -----------------------------
 
